@@ -1,2 +1,2 @@
-# renderBadger
-renderBadger public code repository
+# RenderBadger
+RenderBadger public code repository
