@@ -1,2 +1,2 @@
-# pixelBadger
-PixelBadger public code repository
+# renderBadger
+renderBadger public code repository
